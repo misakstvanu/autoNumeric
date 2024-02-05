@@ -1,3 +1,6 @@
+> info
+> Fork to compile package with Vite
+
 <p align="center"><a href="http://autonumeric.org"><img src="http://autonumeric.org/statics/icons/apple-icon-152x152.png" alt="autonumeric.org"></a></p>
 <p align="center">
 <a href="https://npmjs.org/package/autonumeric"><img src="https://img.shields.io/npm/v/autonumeric.svg" alt="Latest Version"></a>
