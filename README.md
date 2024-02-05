@@ -1,4 +1,4 @@
-> info
+> [!NOTE]
 > Fork to compile package with Vite
 
 <p align="center"><a href="http://autonumeric.org"><img src="http://autonumeric.org/statics/icons/apple-icon-152x152.png" alt="autonumeric.org"></a></p>
